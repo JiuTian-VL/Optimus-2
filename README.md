@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">
-   <img src="./assets/optimus2.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action
-     <br />  Conditioned Policy
+   <img src="./assets/optimus2.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-2: Multimodal Minecraft Agent with 
+     <br />  Goal-Observation-Action Conditioned Policy
    <br /> <font size=3>CVPR 2025 </font></b> 
 </h2>
 <div>
