@@ -38,8 +38,10 @@ we propose Optimus-2, a novel Minecraft agent that incorporates a Multimodal Lar
 <img src="./assets/fig2.png" >
 
 ## :smile_cat: Evaluation results
-We report the `average success rate (SR)`, `average number of steps (AS)`, and `average time (AT)` on each task group, the results of each task can be found in the Appendix experiment. Lower AS and AT metrics mean that the agent is more efficient at completing the task, while $∞$ indicates that the agent is unable to complete the task. Overall represents the average result on the five groups of Iron, Gold, Diamond, Redstone, and Armor.
+We report the `average rewards (AR)` for Atomic Tasks, `average success rate (SR)` for Long-Horizon Tasks and Open-Ended Instruction Tasks.
 <img src="./assets/table1.png" >
+<img src="./assets/table2.png" >
+<img src="./assets/table3.png" >
 
 ## :hugs: Citation
 
