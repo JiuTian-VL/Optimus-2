@@ -39,8 +39,14 @@ we propose Optimus-2, a novel Minecraft agent that incorporates a Multimodal Lar
 
 ## :smile_cat: Evaluation results
 We report the `average rewards (AR)` for Atomic Tasks, `average success rate (SR)` for Long-Horizon Tasks and Open-Ended Instruction Tasks.
+
+Table 1: Main Result of GOAP on Atomic Tasks.
 <img src="./assets/table1.png" >
+
+Table 2: Main Result of Optimus-2 on Long-Horizon Tasks.
 <img src="./assets/table2.png" >
+
+Table 3: Main Result of Optimus-2 on Open-Ended Instruction Tasks.
 <img src="./assets/table3.png" >
 
 ## :hugs: Citation
