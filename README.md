@@ -21,7 +21,7 @@
 <div align="center">
     <a href="https://arxiv.org/abs/2502.19902" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
-    <a href="https://cybertronagent.github.io/Optimus-1.github.io/" target="_blank">
+    <a href="https://cybertronagent.github.io/Optimus-2.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Project-Optimus--1-9cf" alt="Project Page"></a>
 </div>
 </div>
@@ -29,6 +29,7 @@
 
 
 ## :new: Updates
+- [03/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-2.github.io/) released.
 - [02/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2502.19902) released.
 
 
