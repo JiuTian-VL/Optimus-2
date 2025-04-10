@@ -29,6 +29,7 @@
 
 
 ## :new: Updates
+- [04/2025] :fire: We release the MGOA dataset on [Hugging Face](https://huggingface.co/datasets/MinecraftOptimus/MGOA). Codes and ckpt are coming soon.
 - [03/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-2.github.io/) released.
 - [02/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2502.19902) released.
 
