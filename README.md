@@ -56,12 +56,13 @@ Table 3: Main Result of Optimus-2 on Open-Ended Instruction Tasks.
 If you find this work useful for your research, please kindly cite our paper:
 
 ```
-@inproceedings{li2025optimus2,
-title={Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy},
-author={Li, Zaijing and Xie, Yuquan and Shao, Rui and Chen, Gongwei and Jiang, Dongmei and Nie, Liqiang},
-booktitle={2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-year={2025},
-organization={IEEE}
+@InProceedings{Li_2025_CVPR,
+    author    = {Li, Zaijing and Xie, Yuquan and Shao, Rui and Chen, Gongwei and Jiang, Dongmei and Nie, Liqiang},
+    title     = {Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {9039-9049}
 }
 ```
 
