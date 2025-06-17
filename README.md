@@ -29,7 +29,8 @@
 
 
 ## :new: Updates
-- [04/2025] :fire: We release the MGOA dataset on [Hugging Face](https://huggingface.co/datasets/MinecraftOptimus/MGOA). Codes and ckpt are coming soon.
+- [06/2025] :fire: We released the third generation of Minecraft agent, [Optimus-3](https://arxiv.org/pdf/2506.10357)! [Play with Optimus-3 now!](https://github.com/JiuTian-VL/Optimus-3) We are refactoring Optimus-1 and Optimus-2 to adapt them to the new framework, like Optimus-3.
+- [04/2025] :fire: We release the MGOA dataset on [Hugging Face](https://huggingface.co/datasets/MinecraftOptimus/MGOA).
 - [03/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-2.github.io/) released.
 - [02/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2502.19902) released.
 
